@@ -1,0 +1,158 @@
+body {
+    background: #f9faf8;
+}
+
+.first {
+    background-color: #1f2937;
+    height: 300px;
+}
+
+.top {
+    display: flex;
+    justify-content: center;
+    gap:125px;
+}
+
+.logo {
+    font-size: 24px;
+    color:#f9faf8;
+}
+ul {
+    display: flex;
+    font-size: 18px;
+    gap: 10px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #e5e7eb;
+    text-decoration: none;
+}
+
+.bottom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    color:#f9faf8;
+}
+
+.bottom-left {
+    height: 150px;
+    width: 300px;
+}
+
+.bottom-right {
+    margin-top: 30px;
+}
+
+.head {
+    display: flex;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.button {
+    background: #3882f6;
+    color: #f9faf8;
+    border-radius: 7px;
+}
+
+.second {
+    height: 300px;
+}
+
+.title {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    color:#1f2937;
+    margin-bottom: 32px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+
+}
+
+.round-square {
+    height: 100px;
+    width: 100px;
+    border: 3px solid #3882f6;
+    border-radius: 10px;
+}
+
+.subtext {
+    width: 100px;
+}
+
+.third {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 300px;
+    background: #e5e7eb;
+}
+
+.quote {
+    width: 500px;
+    font-size: 26px;
+    font-style: italic;
+}
+.author {
+    color:#1f2937;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: end;
+}
+
+.fourth {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+
+.modal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background: #3882f6;
+    gap: 10px;
+    height: 100px;
+    width: 700px
+}
+
+.ad {
+    font-weight:100;
+}
+
+.header {
+    font-weight: bold;
+    color:#f9faf8
+}
+
+.sign {
+    background: #3882f6;
+    color: #f9faf8;
+    border: 1.5px solid #f9faf8;
+    border-radius: 3px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.fifth {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    color: #f9faf8;
+    height: 50px;
+}
